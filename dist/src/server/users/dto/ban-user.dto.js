@@ -1,9 +1,7 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 exports.BanUserDto = void 0;
-var BanUserDto = /** @class */ (function () {
-    function BanUserDto() {
-    }
-    return BanUserDto;
-}());
+class BanUserDto {
+}
 exports.BanUserDto = BanUserDto;
+//# sourceMappingURL=ban-user.dto.js.map
